@@ -1,0 +1,23 @@
+.form {
+  padding: 50px;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  border: 2 px solid black;
+  justify-content: space-around;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.users {
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+}
+.user-item {
+  padding: 10px;
+}
